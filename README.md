@@ -1,5 +1,5 @@
 
-#  Projeto APP Banco para bootcamp DIO
+#  Projeto APP Restaurante
 
 ## Objetivo
 Criar um sistema de restaurante com as operações: Cadastrar restaurante, listar restaurante e alterar status usando a linguagem Python
